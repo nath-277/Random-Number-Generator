@@ -1,0 +1,41 @@
+body{
+    font-family: tahoma;
+}
+#roll{
+    background-color: rgb(250, 108, 108);
+    font-size: 2.5em;
+    border-radius: 10px;
+    font-family: Tahoma;
+    margin-top: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+#roll:hover{
+    background-color: rgb(255, 30, 30);
+}
+#reset{
+    background-color: rgb(3, 179, 3);
+    font-size: 2.5em;
+    border-radius: 10px;
+    font-family: Tahoma;
+    margin-top: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+#reset:hover{
+    background-color: rgb(34, 236, 16);;
+}
+.num{
+    font-family: Tahoma;
+    border: 2px solid;
+    margin-left: 15px;
+    font-size: 2.5em;
+    padding: 20px 20px;
+}
+#response{
+    text-align: center;
+    font-size: 1.4em;
+    font-family: tahoma;
+}
